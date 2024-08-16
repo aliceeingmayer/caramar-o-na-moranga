@@ -1,0 +1,45 @@
+
+
+body{
+    background-color: rgb(181, 145, 197);
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    /* define o fundo, texto centralizado e margem automatica */
+}
+
+.camarao{
+    margin-bottom: 3%;
+    color: rgb(83, 17, 80) ;
+    /*define cor do titulo */
+}
+
+
+.preparo{
+    color: rgb(148, 39, 142);
+    /* muda a cor do subtilo*/
+}
+
+ul{
+    text-align: justify;     
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 20%;
+    /* deix o texto justificade, centraliza, tamanho 20% */
+
+}
+
+ol{
+    text-align: justify;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 34%;
+    /* personaliza o texto */
+}
+img{
+    border-radius: 20px;
+    width: 25%;
+    /* borda e tamanho da imagem */
+}
